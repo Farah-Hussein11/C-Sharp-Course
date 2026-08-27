@@ -32,10 +32,10 @@ namespace DemoConsoleApp
             MathOperations ops = new MathOperations();
 
             // 🔔 Call the method using regular positional arguments.
-            ops.ProcessNumbers(5, 20);
+            ops.ProcessNumbers(12, 33);
 
             // 🔔 Call the method again, this time using named parameters.
-            ops.ProcessNumbers(firstNumber: 7, secondNumber: 99);
+            ops.ProcessNumbers(firstNumber: 17, secondNumber: 2);
 
             // 🧹 Pause the console so the user can read the output before it closes.
             Console.WriteLine("\nPress any key to exit...");
