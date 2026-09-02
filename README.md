@@ -1,9 +1,11 @@
 # The-Tech-Academy-Basic-C-Sharp-Projects
+
+
 ## Description
 
 This repository contains my projects and exercises completed during a C# and .NET course. It showcases practical applications of core concepts like object-oriented programming, web development with ASP.NET MVC, and database integration using Entity Framework.
 
-## Features
+## Projects Features
 
 - Object-Oriented Programming (OOP): Encapsulation, inheritance, polymorphism, and interfaces.
 
@@ -13,7 +15,7 @@ This repository contains my projects and exercises completed during a C# and .NE
 
 - Real-World Projects: Includes a car insurance quote application that demonstrates full-stack development.
 
-## Technologies Used
+## The Technologies I Used
 
 C#
 
